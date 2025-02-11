@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 42 Student
+👨‍🎓 42 Student
+🖥️ Software Engineer at [Memory](https://github.com/Inthememory)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maelp20)](https://github.com/Maelp20/github-readme-stats)
